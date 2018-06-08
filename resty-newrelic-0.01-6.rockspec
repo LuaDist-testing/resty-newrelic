@@ -1,16 +1,16 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "resty-newrelic"
-version = "0.01-5"
+version = "0.01-6"
 -- LuaDist source
 source = {
-  tag = "0.01-5",
+  tag = "0.01-6",
   url = "git://github.com/LuaDist-testing/resty-newrelic.git"
 }
 -- Original source
 -- source = {
 --    url = "git://github.com/saks/lua-resty-newrelic",
---    tag = "v0.01"
+--    tag = "v0.01-6"
 -- }
 description = {
    summary = "Lua newrelic client library for OpenResty / ngx_lua.",
