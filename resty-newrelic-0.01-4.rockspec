@@ -1,9 +1,17 @@
+-- This file was automatically generated for the LuaDist project.
+
 package = "resty-newrelic"
-version = "0.01-1"
+version = "0.01-4"
+-- LuaDist source
 source = {
-   url = "git://github.com/saks/lua-resty-newrelic",
-   tag = "v0.01"
+  tag = "0.01-4",
+  url = "git://github.com/LuaDist-testing/resty-newrelic.git"
 }
+-- Original source
+-- source = {
+--    url = "git://github.com/saks/lua-resty-newrelic",
+--    tag = "v0.01"
+-- }
 description = {
    summary = "Lua newrelic client library for OpenResty / ngx_lua.",
    detailed = [[
