@@ -1,10 +1,10 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "resty-newrelic"
-version = "0.01-4"
+version = "0.01-5"
 -- LuaDist source
 source = {
-  tag = "0.01-4",
+  tag = "0.01-5",
   url = "git://github.com/LuaDist-testing/resty-newrelic.git"
 }
 -- Original source
